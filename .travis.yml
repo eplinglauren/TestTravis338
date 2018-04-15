@@ -3,7 +3,7 @@ sudo: false
 install: true
 addons:
   sonarcloud:
-    organization: "sonarsource"
+    organization: "eplinglauren-github"
     token:
       secure: "8a47214efcd8b0dd647ed1a89a9cd1d6e04435a6"
 jdk:
